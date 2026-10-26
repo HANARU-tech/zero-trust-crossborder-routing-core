@@ -14,5 +14,5 @@ An enterprise-grade, deterministic payment orchestration layer engineered to eli
 This public repository contains the partial open-source verification logic (10% Layer). The complete core routing engine, high-throughput memory channels, and production deployment scripts operate under the IFSCA FinTech Sandbox framework (GIFT City).
 
 For full enterprise integration documentation and LOI deployment:
-Contact: enterprise.desk@hanaru-grid.internal (or reply via active corporate escalation channels).
+Contact: Official1hanaru@gmail.com (or reply via active corporate escalation channels).
 # zero-trust-crossborder-routing-core
